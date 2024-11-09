@@ -1,0 +1,7 @@
+__pycache__/
+venv/
+tempCodeRunnerFile.py
+instance/
+migrations/
+files/
+.env
